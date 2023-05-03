@@ -1,0 +1,12 @@
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.csproj.AssemblyReference.cache
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.AssemblyInfoInputs.cache
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.AssemblyInfo.cs
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.csproj.CoreCompileInputs.cache
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\bin\Debug\net5.0\CaseStudyService1.deps.json
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\bin\Debug\net5.0\CaseStudyService1.dll
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\bin\Debug\net5.0\ref\CaseStudyService1.dll
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\bin\Debug\net5.0\CaseStudyService1.pdb
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.dll
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\ref\CaseStudyService1.dll
+D:\Shubham's\TCS\CaseStudy\CaseStudyService1\obj\Debug\net5.0\CaseStudyService1.pdb
